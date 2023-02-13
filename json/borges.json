@@ -1,0 +1,621 @@
+{
+  "name": "borges",
+  "url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://es.wikipedia.org/wiki/Francisco_Borges",
+        "text": "Francisco Borges"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/cause_c%C3%A9l%C3%A8bre",
+        "text": "cause célèbre"
+      },
+      {
+        "href": "https://es.wikipedia.org/wiki/Contorno_(revista)",
+        "text": "Contorno"
+      },
+      {
+        "href": "https://en.wikisource.org/wiki/Fears_and_Scruples",
+        "text": "\"Fears and Scruples\""
+      },
+      {
+        "href": "https://archive.org/details/borgeshisfiction00bell/page/14",
+        "text": "Borges and His Fiction"
+      },
+      {
+        "href": "https://archive.org/details/borgeshisfiction00bell/page/14",
+        "text": "14"
+      },
+      {
+        "href": "https://archive.org/details/borgeshisfiction00bell/page/16",
+        "text": "Borges and His Fiction: A Guide to His Mind and Art"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborgesr00wils",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborgesr00wils/page/n38",
+        "text": "37"
+      },
+      {
+        "href": "https://archive.org/details/hypermedialitera0000dela",
+        "text": "Hypermedia and Literary Studies"
+      },
+      {
+        "href": "https://www.imdb.com/title/tt0046947",
+        "text": "\"Days of Hate\""
+      },
+      {
+        "href": "https://books.google.com/books?id=68R9VS3WHPwC&amp;pg=PT139",
+        "text": "Jorge Luis Borges: The Last Interview: and Other Conversations (The Last Interview Series)"
+      },
+      {
+        "href": "https://www.theguardian.com/books/2017/mar/14/norman-thomas-di-giovanni-obituary",
+        "text": "\"Norman Thomas di Giovanni obituary\""
+      },
+      {
+        "href": "https://doi.org/10.7202%2F011973ar",
+        "text": "10.7202/011973ar"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:193238162",
+        "text": "193238162"
+      },
+      {
+        "href": "https://www.jstor.org/stable/10.7723/antiochreview.75.2.0008",
+        "text": "\"Norman di Giovanni, the Master's Translator\""
+      },
+      {
+        "href": "https://doi.org/10.7723%2Fantiochreview.75.2.0008",
+        "text": "10.7723/antiochreview.75.2.0008"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F40125492",
+        "text": "10.2307/40125492"
+      },
+      {
+        "href": "https://web.archive.org/web/20111102124408/http://www2.lib.virginia.edu/small/collections/borges/",
+        "text": "\"The Jorge Luis Borges Collection\""
+      },
+      {
+        "href": "https://books.google.com/books?id=tGXEdVSYIn0C",
+        "text": "Peripheral (post) Modernity: The Syncretist Aesthetics of Borges, Piglia, Kalokyris and Kyriakidis"
+      },
+      {
+        "href": "https://www.nytimes.com/books/97/08/31/reviews/borges-insight.html",
+        "text": "\"Borges, a Blind Writer With Insight\""
+      },
+      {
+        "href": "https://www.religionenlibertad.com/cultura/50249/borges-era-ateo-pero-rezaba-cada-noche-avemaria-evoca-.html",
+        "text": "\"Borges era ateo pero rezaba cada noche un Avemaría, evoca un sacerdote en un homenaje ante su tumba\""
+      },
+      {
+        "href": "https://web.archive.org/web/20160303235135/http://edant.revistaenie.clarin.com/notas/2008/05/14/01671869.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20160303220248/http://edant.revistaenie.clarin.com/notas/2008/05/15/01672570.html",
+        "text": "\"Se suspendió un juicio por obras de Borges: reacción de Kodama\""
+      },
+      {
+        "href": "https://www.clarin.com/sociedad/vuelta-democracia-texto-jorge-luis-borges-escribio-clarin-1983_0_cvt720K4S.html",
+        "text": "\"La vuelta de la democracia: el texto que Jorge Luis Borges escribió para Clarín en 1983\""
+      },
+      {
+        "href": "https://web.archive.org/web/20080416034854/http://www.bibnal.edu.ar/paginas/galeriadirec.htm#borges",
+        "text": "Jorge Luis Borges. Galería de Directores, Biblioteca Nacional (Argentina)"
+      },
+      {
+        "href": "https://www.theguardian.com/commentisfree/2010/feb/19/falkland-islands-editorial",
+        "text": "Falkland Islands: Imperial pride"
+      },
+      {
+        "href": "https://www.nybooks.com/online/2021/02/08/the-hidden-history-of-black-argentina/",
+        "text": "\"The Hidden History of Black Argentina | Uki Goñi\""
+      },
+      {
+        "href": "https://ghostarchive.org/varchive/youtube/20211030/bNxzQSheCkc",
+        "text": "Firing Line with William F. Buckley Jr.: Borges: South America's Titan"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=bNxzQSheCkc",
+        "text": "the original"
+      },
+      {
+        "href": "https://www.nytimes.com/books/97/08/31/reviews/borges-brodie.html",
+        "text": "\"The Other Borges Than the Central One\""
+      },
+      {
+        "href": "https://archive.org/details/invisibleworkbor00kris",
+        "text": "Invisible Work"
+      },
+      {
+        "href": "https://archive.org/details/invisibleworkbor00kris/page/n61",
+        "text": "37"
+      },
+      {
+        "href": "https://doi.org/10.2307/2905740",
+        "text": "https://doi.org/10.2307/2905740"
+      },
+      {
+        "href": "https://doi.org/10.2307/2905740",
+        "text": "https://doi.org/10.2307/2905740"
+      },
+      {
+        "href": "https://www.theguardian.com/books/2008/jun/10/jorgeluisborges",
+        "text": "Jorge Luis Borges profile"
+      },
+      {
+        "href": "https://www.nytimes.com/1983/10/07/books/83nobel.html",
+        "text": "\"Briton Wins the Nobel Literature Prize\""
+      },
+      {
+        "href": "https://www.theguardian.com/books/2016/jan/06/borges-auden-nabokov-neruda-nobel-prize-literature-1965",
+        "text": "Nabokov, Neruda and Borges revealed as losers of 1965 Nobel prize"
+      },
+      {
+        "href": "https://www.svd.se/hemliga-dokument-borges-ratades-for-bortglomd-forfattare",
+        "text": "\"Hemliga dokument visar kampen om Nobelpriset\""
+      },
+      {
+        "href": "https://www.borges.pitt.edu/i/borges-francisco",
+        "text": "\"Borges, Francisco\""
+      },
+      {
+        "href": "https://www.infobae.com/grandes-libros/2019/12/27/francisco-borges-el-abuelo-del-gran-escritor-un-heroe-atrapado-entre-dos-lealtades/",
+        "text": "\"Francisco Borges, el abuelo del gran escritor: un héroe atrapado entre dos lealtades\""
+      },
+      {
+        "href": "https://www.worldcat.org/oclc/35792375",
+        "text": "Borges&#160;: a life"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F465123",
+        "text": "10.2307/465123"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F3726707",
+        "text": "10.2307/3726707"
+      },
+      {
+        "href": "https://archive.org/details/proseofjorgeluis0000aghe",
+        "text": "The Prose of Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/alephweaverbibli0000aize",
+        "text": "The Aleph Weaver: Biblical, Kabbalistic and Judaic Elements in Borges"
+      },
+      {
+        "href": "https://archive.org/details/borgeshissuccess00unse",
+        "text": "Borges and His Successors"
+      },
+      {
+        "href": "https://archive.org/details/borgeskaballahot0000alaz",
+        "text": "Borges and the Kabbalah"
+      },
+      {
+        "href": "https://archive.org/details/criticalessayson00alaz",
+        "text": "Critical Essays on Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/outofcontexthist0000bald",
+        "text": "Out of Context"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborges00bloo",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/cardinalpointsof0000unse",
+        "text": "The Cardinal Points of Borges"
+      },
+      {
+        "href": "https://archive.org/details/borgeseuroperevi0000unse",
+        "text": "Borges and Europe Revisited"
+      },
+      {
+        "href": "https://web.archive.org/web/20120105024915/http://cuadernosdealeph.com/revista_2007/A2007_pdf/06%20Teor%C3%ADa.pdf",
+        "text": "https://web.archive.org/web/20120105024915/http://cuadernosdealeph.com/revista_2007/A2007_pdf/06%20Teor%C3%ADa.pdf"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborgess00lind",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0264-0856",
+        "text": "0264-0856"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborges00mcmu",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/signsofborges00moll",
+        "text": "Signs of Borges"
+      },
+      {
+        "href": "https://www.academia.edu/25252312/Borges_and_Bruno_Schulz_on_the_Infinite_Book_of_the_Kabbalah",
+        "text": "https://www.academia.edu/25252312/Borges_and_Bruno_Schulz_on_the_Infinite_Book_of_the_Kabbalah"
+      },
+      {
+        "href": "https://archive.org/details/jorgeluisborges00rodr",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://archive.org/details/contemporaryprax0000rodr",
+        "text": "The Contemporary Praxis of the Fantastic"
+      },
+      {
+        "href": "https://archive.org/details/borgesrevisited00stab",
+        "text": "Borges Revisited"
+      },
+      {
+        "href": "https://archive.org/details/papertigersideal0000stur",
+        "text": "Paper Tigers"
+      },
+      {
+        "href": "https://archive.org/details/borgeslife00will",
+        "text": "Borges: A Life"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/Special:Search/Jorge_Luis_Borges",
+        "text": "Definitions"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Jorge_Luis_Borges",
+        "text": "Media"
+      },
+      {
+        "href": "https://en.wikiquote.org/wiki/Jorge_Luis_Borges",
+        "text": "Quotations"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q909",
+        "text": "Data"
+      },
+      {
+        "href": "https://ftl.toolforge.org/cgi-bin/ftl?st=viaf&amp;su=88919448",
+        "text": "Resources in your library"
+      },
+      {
+        "href": "https://ftl.toolforge.org/cgi-bin/ftl?st=viaf&amp;su=88919448&amp;library=0CHOOSE0",
+        "text": "Resources in other libraries"
+      },
+      {
+        "href": "https://curlie.org/Arts/Literature/Authors/B/Borges%2C_Jorge_Luis/",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q909#P648",
+        "text": ""
+      },
+      {
+        "href": "https://www.deussmusic.com/componisten/TheoVerbey/de-peryton/145552918661",
+        "text": "De Peryton"
+      },
+      {
+        "href": "https://web.archive.org/web/20140924041417/http://www.fundacionborges.com.ar/",
+        "text": "International Foundation Jorge Luis Borges"
+      },
+      {
+        "href": "https://catalog.loc.gov/vwebv/holdingsInfo?searchId=4487&amp;recPointer=0&amp;recCount=25&amp;searchType=1&amp;bibId=5695724",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=YSLV7t9DvN8",
+        "text": "Six Norton Lectures"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q909#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://isni.org/isni/0000000121429031",
+        "text": "1"
+      },
+      {
+        "href": "https://viaf.org/viaf/88919448",
+        "text": "1"
+      },
+      {
+        "href": "https://www.worldcat.org/identities/lccn-n79007035/",
+        "text": "WorldCat"
+      },
+      {
+        "href": "https://authority.bibsys.no/authority/rest/authorities/html/90070625",
+        "text": "Norway"
+      },
+      {
+        "href": "https://catalogue.bnf.fr/ark:/12148/cb11892985q",
+        "text": "France"
+      },
+      {
+        "href": "https://data.bnf.fr/ark:/12148/cb11892985q",
+        "text": "(data)"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000021685",
+        "text": "Argentina"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035540",
+        "text": "2"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000026401",
+        "text": "3"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000026449",
+        "text": "4"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000028325",
+        "text": "5"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035231",
+        "text": "6"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035232",
+        "text": "7"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035422",
+        "text": "8"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035425",
+        "text": "9"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035445",
+        "text": "10"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035446",
+        "text": "11"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035496",
+        "text": "12"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035497",
+        "text": "13"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035499",
+        "text": "14"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035504",
+        "text": "15"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035586",
+        "text": "16"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035693",
+        "text": "17"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035694",
+        "text": "18"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000035723",
+        "text": "19"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036097",
+        "text": "20"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036101",
+        "text": "21"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036102",
+        "text": "22"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036478",
+        "text": "23"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036480",
+        "text": "24"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036482",
+        "text": "25"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036488",
+        "text": "26"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000036494",
+        "text": "27"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000038000",
+        "text": "28"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000038006",
+        "text": "29"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000040275",
+        "text": "30"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000040278",
+        "text": "31"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000040296",
+        "text": "32"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000040832",
+        "text": "33"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041966",
+        "text": "34"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041967",
+        "text": "35"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041968",
+        "text": "36"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041969",
+        "text": "37"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041973",
+        "text": "38"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000041974",
+        "text": "39"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000042540",
+        "text": "40"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000042545",
+        "text": "41"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000042547",
+        "text": "42"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000024767",
+        "text": "43"
+      },
+      {
+        "href": "https://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000042900",
+        "text": "44"
+      },
+      {
+        "href": "https://cantic.bnc.cat/registre/981058519882306706",
+        "text": "Catalonia"
+      },
+      {
+        "href": "https://d-nb.info/gnd/118513532",
+        "text": "Germany"
+      },
+      {
+        "href": "https://opac.sbn.it/nome/CFIV007696",
+        "text": "Italy"
+      },
+      {
+        "href": "https://id.loc.gov/authorities/names/n79007035",
+        "text": "United States"
+      },
+      {
+        "href": "https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000026255&amp;P_CON_LNG=ENG",
+        "text": "Latvia"
+      },
+      {
+        "href": "https://id.ndl.go.jp/auth/ndlna/00433878",
+        "text": "Japan"
+      },
+      {
+        "href": "https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19981000310&amp;CON_LNG=ENG",
+        "text": "Czech Republic"
+      },
+      {
+        "href": "https://nla.gov.au/anbd.aut-an35100025",
+        "text": "Australia"
+      },
+      {
+        "href": "https://data.nlg.gr/resource/authority/record62120",
+        "text": "Greece"
+      },
+      {
+        "href": "https://lod.nl.go.kr/resource/KAC199603014",
+        "text": "Korea"
+      },
+      {
+        "href": "https://libris.kb.se/auth/207839",
+        "text": "Sweden"
+      },
+      {
+        "href": "https://opac.vatlib.it/auth/detail/495_88183",
+        "text": "Vatican"
+      },
+      {
+        "href": "https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500006476",
+        "text": "Artist Names (Getty)"
+      },
+      {
+        "href": "https://www.deutsche-biographie.de/pnd118513532.html?language=en",
+        "text": "Germany"
+      },
+      {
+        "href": "https://ci.nii.ac.jp/author/DA0004722X?l=en",
+        "text": "CiNii (Japan)"
+      },
+      {
+        "href": "https://musicbrainz.org/artist/494e041d-9636-4ed1-8bce-776a0f67e181",
+        "text": "artist"
+      },
+      {
+        "href": "https://opac.rism.info/search?id=pe41012796",
+        "text": "1"
+      },
+      {
+        "href": "https://snaccooperative.org/ark:/99166/w6r49rsv",
+        "text": "Social Networks and Archival Context"
+      },
+      {
+        "href": "https://www.idref.fr/026739917",
+        "text": "1"
+      },
+      {
+        "href": "https://trove.nla.gov.au/people/826448",
+        "text": "1"
+      }
+    ],
+    "text": "Jorge Francisco Isidoro Luis Borges Acevedo (/ˈbɔːrhɛs/;&#91;2&#93;Spanish:&#160;[ˈboɾxes]&#32;(listen); 24 August 1899 – 14 June 1986) was an Argentine short-story writer, essayist, poet and translator, as well as a key figure in Spanish-language and international literature. His best-known books, Ficciones (Fictions) and El Aleph (The Aleph), published in the 1940s, are collections of short stories exploring themes of dreams, labyrinths, chance, infinity, archives, mirrors, fictional writers and mythology.&#91;3&#93; Borges' works have contributed to philosophical literature and the fantasy genre, and majorly influenced the magic realist movement in 20th century Latin American literature.&#91;4&#93;Born in Buenos Aires, Borges later moved with his family to Switzerland in 1914, where he studied at the Collège de Genève. The family travelled widely in Europe, including Spain. On his return to Argentina in 1921, Borges began publishing his poems and essays in surrealist literary journals. He also worked as a librarian and public lecturer. In 1955, he was appointed director of the National Public Library and professor of English Literature at the University of Buenos Aires. He became completely blind by the age of 55. Scholars have suggested that his progressive blindness helped him to create innovative literary symbols through imagination.&#91;Note 1&#93; By the 1960s, his work was translated and published widely in the United States and Europe. Borges himself was fluent in several languages.\nIn 1961, he came to international attention when he received the first Formentor Prize, which he shared with Samuel Beckett. In 1971, he won the Jerusalem Prize. His international reputation was consolidated in the 1960s, aided by his works being available in English, by the Latin American Boom and by the success of García Márquez's One Hundred Years of Solitude.&#91;5&#93; He dedicated his final work, The Conspirators, to the city of Geneva, Switzerland.&#91;6&#93; Writer and essayist J. M. Coetzee said of him: \"He, more than anyone, renovated the language of fiction and thus opened the way to a remarkable generation of Spanish-American novelists.\"&#91;7&#93;Jorge Francisco Isidoro Luis Borges Acevedo was born into an educated middle-class family on 24 August 1899.&#91;8&#93; They were in comfortable circumstances but not wealthy enough to live in downtown Buenos Aires so the family resided in Palermo, then a poorer neighbourhood. Borges's mother, Leonor Acevedo Suárez, came from a traditional Uruguayan family of criollo (Spanish) origin. Her family had been much involved in the European settling of South America and the Argentine War of Independence, and she spoke often of their heroic actions.&#91;9&#93;His 1939 book, Cuaderno San Martín, includes the poem \"Isidoro Acevedo\", commemorating his grandfather, Isidoro de Acevedo Laprida, a soldier of the Buenos Aires Army. A descendant of the Argentine lawyer and politician Francisco Narciso de Laprida, Acevedo Laprida fought in the battles of Cepeda in 1859, Pavón in 1861, and Los Corrales in 1880. Acevedo Laprida died of pulmonary congestion in the house where his grandson Jorge Luis Borges was born.\nAccording to a study by Antonio Andrade, Jorge Luis Borges had Portuguese ancestry: Borges's great-grandfather, Francisco, was born in Portugal in 1770, and lived in Torre de Moncorvo, in the North of the country before he emigrated to Argentina, where he married Cármen Lafinur.\nBorges's own father, Jorge Guillermo Borges Haslam, was a lawyer, and wrote the novel El caudillo in 1921. Borges Haslam was born in Entre Ríos of Spanish, Portuguese, and English descent, the son of Francisco Borges Lafinur, a colonel, and Frances Ann Haslam, an Englishwoman. Borges Haslam grew up speaking English at home. The family frequently traveled to Europe. Borges Haslam wed Leonor Acevedo Suárez in 1898 and their offspring also included the painter Norah Borges, sister of Jorge Luis Borges.&#91;9&#93;At age of ten, Jorge Luis Borges translated Oscar Wilde's The Happy Prince into Spanish. It was published in a local journal, but Borges's friends thought the real author was his father.&#91;10&#93; Borges Haslam was a lawyer and psychology teacher who harboured literary aspirations. Borges said his father \"tried to become a writer and failed in the attempt\", despite the 1921 opus El caudillo. Jorge Luis Borges wrote, \"as most of my people had been soldiers and I knew I would never be, I felt ashamed, quite early, to be a bookish kind of person and not a man of action.\"&#91;9&#93;Jorge Luis Borges was taught at home until the age of 11, was bilingual in Spanish and English, reading Shakespeare in the latter at the age of twelve.&#91;9&#93; The family lived in a large house with an English library of over one thousand volumes; Borges would later remark that \"if I were asked to name the chief event in my life, I should say my father's library.\"&#91;11&#93;His father gave up practicing law due to the failing eyesight that would eventually afflict his son. In 1914, the family moved to Geneva, Switzerland, and spent the next decade in Europe.&#91;9&#93; In Geneva, Borges Haslam was treated by an eye specialist, while his son and daughter attended school. Jorge Luis learned French, read Thomas Carlyle in English, and began to read philosophy in German. In 1917, when he was eighteen, he met writer Maurice Abramowicz and began a literary friendship that would last for the remainder of his life.&#91;9&#93; He received his baccalauréat from the Collège de Genève in 1918.&#91;12&#93;&#91;Note 2&#93; The Borges family decided that, due to political unrest in Argentina, they would remain in Switzerland during the war. After World War I, the family spent three years living in various cities: Lugano, Barcelona, Majorca, Seville, and Madrid.&#91;9&#93; They remained in Europe until 1921.\nAt that time, Borges discovered the writings of Arthur Schopenhauer and Gustav Meyrink's The Golem (1915) which became influential to his work. In Spain, Borges fell in with and became a member of the avant-garde, anti-ModernismoUltraist literary movement, inspired by Guillaume Apollinaire and Filippo Tommaso Marinetti, close to the Imagists. His first poem, \"Hymn to the Sea,\" written in the style of Walt Whitman, was published in the magazine Grecia.&#91;13&#93; While in Spain, he met such noted Spanish writers as Rafael Cansinos Assens and Ramón Gómez de la Serna.&#91;14&#93;In 1921, Borges returned with his family to Buenos Aires. He had little formal education, no qualifications and few friends. He wrote to a friend that Buenos Aires was now \"overrun by arrivistes, by correct youths lacking any mental equipment, and decorative young ladies\".&#91;9&#93; He brought with him the doctrine of Ultraism and launched his career, publishing surreal poems and essays in literary journals. In 1923, Borges first published his poetry, a collection called Fervor de Buenos Aires and contributed to the avant-garde review Martín Fierro.\nBorges co-founded the journals Prisma, a broadsheet distributed largely by pasting copies to walls in Buenos Aires, and Proa. Later in life, Borges regretted some of these early publications, attempting to purchase all known copies to ensure their destruction.&#91;15&#93;By the mid-1930s, he began to explore existential questions and fiction. He worked in a style that Argentine critic Ana María Barrenechea has called \"irreality.\" Many other Latin American writers, such as Juan Rulfo, Juan José Arreola, and Alejo Carpentier, were investigating these themes, influenced by the phenomenology of Husserl and Heidegger. In this vein, Borges biographer Edwin Williamson underlines the danger of inferring an autobiographically inspired basis for the content or tone of certain of his works: books, philosophy, and imagination were as much a source of real inspiration to him as his own lived experience, if not more so.&#91;9&#93;From the first issue, Borges was a regular contributor to Sur, founded in 1931 by Victoria Ocampo. It was then Argentina's most important literary journal and helped Borges find his fame.&#91;16&#93; Ocampo introduced Borges to Adolfo Bioy Casares, another well-known figure of Argentine literature who was to become a frequent collaborator and close friend. They wrote a number of works together, some under the nom de plumeH. Bustos Domecq, including a parody detective series and fantasy stories. During these years, a family friend, Macedonio Fernández, became a major influence on Borges. The two would preside over discussions in cafés, at country retreats, or in Fernandez's tiny apartment in the Balvanera district. He appears by name in Borges's Dialogue about a Dialogue,&#91;17&#93; in which the two discuss the immortality of the soul. \nIn 1933, Borges gained an editorial appointment at Revista Multicolor de los Sábados (the literary supplement of the Buenos Aires newspaper Crítica), where he first published the pieces collected as Historia universal de la infamia (A Universal History of Infamy) in 1935.&#91;9&#93; The book includes two types of writing: the first lies somewhere between non-fiction essays and short stories, using fictional techniques to tell essentially true stories. The second consists of literary forgeries, which Borges initially passed off as translations of passages from famous but seldom-read works. \nIn the following years, he served as a literary adviser for the publishing house Emecé Editores, and from 1936 to 1939 wrote weekly columns for El Hogar. In 1938, Borges found work as the first assistant at the Miguel Cané Municipal Library. It was in a working-class area&#91;18&#93; and there were so few books that cataloging more than one hundred books per day, he was told, would leave little to do for the other staff and would make them look bad. The task took him about an hour each day and the rest of his time he spent in the basement of the library, writing and translating.&#91;9&#93;Borges's father died in 1938, shortly before his 64th birthday. On Christmas Eve that year, Borges had a severe head injury; during treatment, he nearly died of sepsis. While recovering from the accident, Borges began exploring  a new style of writing for which he would become famous. His first story written after his accident, \"Pierre Menard, Author of the Quixote,” came out in May 1939. One of his most famous works, \"Menard\" examines the nature of authorship, as well as the relationship between an author and his historical context. His first collection of short stories, El jardín de senderos que se bifurcan (The Garden of Forking Paths), appeared in 1941, composed mostly of works previously published in Sur.&#91;9&#93;The title story concerns a Chinese professor in England, Dr. Yu Tsun, who spies for Germany during World War I, in an attempt to prove to the authorities that an Asian person is able to obtain the information that they seek. A combination of book and maze, it can be read in many ways. Through it, Borges arguably invented the hypertext novel and went on to describe a theory of the universe based upon the structure of such a novel.&#91;19&#93;&#91;20&#93;Composed of stories taking up over sixty pages, the book was generally well received, but El jardín de senderos que se bifurcan failed to garner for him the literary prizes many in his circle expected.&#91;21&#93;&#91;22&#93; Victoria Ocampo dedicated a large portion of the July 1942 issue of Sur to a \"Reparation for Borges.\" Numerous leading writers and critics from Argentina and throughout the Spanish-speaking world contributed writings to the \"reparation\" project.\nWith his vision beginning to fade in his early thirties and unable to support himself as a writer, Borges began a new career as a public lecturer.&#91;Note 3&#93;&#91;23&#93;&#91;24&#93; He became an increasingly public figure, obtaining appointments as president of the Argentine Society of Writers and as professor of English and American Literature at the Argentine Association of English Culture. His short story \"Emma Zunz\" was made into a film (under the name of Días de odio, Days of Hate, directed in 1954 by Leopoldo Torre Nilsson).&#91;25&#93; Around this time, Borges also began writing screenplays.\nIn 1955, he became director of the Argentine National Library. By the late 1950s he had become completely blind. Neither the coincidence nor the irony of his blindness as a writer escaped Borges:&#91;9&#93;&#32;\nHis later collection of poetry, Elogio de la Sombra (In Praise of Darkness),&#91;27&#93; develops this theme. In 1956 the University of Cuyo awarded Borges the first of many honorary doctorates and the following year he received the National Prize for Literature.&#91;28&#93; From 1956 to 1970, Borges also held a position as a professor of literature at the University of Buenos Aires and other temporary appointments at other universities.&#91;28&#93; He was knighted by Queen Elizabeth II in 1964.&#91;29&#93; In the fall of 1967 and spring of 1968, he delivered the Charles Eliot Norton Lectures at Harvard University.&#91;30&#93;As his eyesight deteriorated, Borges relied increasingly on his mother's help.&#91;28&#93; When he was not able to read and write anymore (he never learned to read Braille), his mother, to whom he had always been close, became his personal secretary.&#91;28&#93; When Perón returned from exile and was re-elected president in 1973, Borges immediately resigned as director of the National Library.&#91;31&#93;Eight of Borges's poems appear in the 1943 anthology of Spanish American Poets by H. R. Hays.&#91;32&#93;&#91;Note 4&#93; \"The Garden of Forking Paths\", one of the first Borges stories to be translated into English, appeared in the August 1948 issue of Ellery Queen's Mystery Magazine, translated by Anthony Boucher.&#91;33&#93; Though several other Borges translations appeared in literary magazines and anthologies during the 1950s (and one story appeared in the science fiction magazine Fantastic Universe in 1960),&#91;34&#93; his international fame dates from the early 1960s.&#91;35&#93;In 1961, Borges received the first Prix International, which he shared with Samuel Beckett. While Beckett had garnered a distinguished reputation in Europe and America, Borges had been largely unknown and untranslated in the English-speaking world and the prize stirred great interest in his work. The Italian government named Borges Commendatore and the University of Texas at Austin appointed him for one year to the Tinker Chair. This led to his first lecture tour in the United States. In 1962, two major anthologies of Borges's writings were published in English by New York presses: Ficciones and Labyrinths. In that year, Borges began lecture tours of Europe.  Numerous honors were to accumulate over the years such as a Special Edgar Allan Poe Award from the Mystery Writers of America \"for distinguished contribution to the mystery genre\" (1976),&#91;36&#93; the Balzan Prize (for Philology, Linguistics and literary Criticism) and the Prix mondial Cino Del Duca, the Miguel de Cervantes Prize (all 1980), as well as the French Legion of Honour (1983) and the Diamond Konex Award for Literature Arts as the most important writer in the last decade in his country.\nIn 1967, Borges began a five-year period of collaboration with the American translator Norman Thomas di Giovanni, through whom he became better known in the English-speaking world.&#91;37&#93;&#91;38&#93;&#91;39&#93; Di Giovanni contended that Borges's popularity was due to his writing with multiple languages in mind and deliberately using Latin words as a bridge from Spanish to English.&#91;40&#93;Borges continued to publish books, among them El libro de los seres imaginarios (Book of Imaginary Beings, 1967, co-written with Margarita Guerrero), El informe de Brodie (Dr. Brodie's Report, 1970), and El libro de arena (The Book of Sand, 1975). He lectured prolifically. Many of these lectures were anthologized in volumes such as Siete noches (Seven Nights) and Nueve ensayos dantescos (Nine Dantesque Essays).&#91;citation needed&#93;His presence in 1967 on campus at the University of Virginia (UVA) in the U.S. influenced a group of students among whom was Jared Loewenstein, who would later become founder and curator of the Jorge Luis Borges Collection at UVA,&#91;41&#93; one of the largest repositories of documents and manuscripts pertaining to Borges's early works.&#91;42&#93; In 1984, he travelled to Athens, Greece, and later to Rethymnon, Crete, where he was awarded an honorary doctorate from the School of Philosophy at the University of Crete.&#91;43&#93;In 1967, Borges married the recently widowed Elsa Astete Millán. Friends believed that his mother, who was 90 and anticipating her own death, wanted to find someone to care for her blind son. The marriage lasted less than three years. After a legal separation, Borges moved back in with his mother, with whom he lived until her death at age 99.&#91;44&#93; Thereafter, he lived alone in the small flat he had shared with her, cared for by Fanny, their housekeeper of many decades.&#91;45&#93;From 1975 until the time of his death, Borges traveled internationally. He was often accompanied in these travels by his personal assistant María Kodama, an Argentine woman of Japanese and German ancestry. In April 1986, a few months before his death, he married her via an attorney in Paraguay, in what was then a common practice among Argentines wishing to circumvent the Argentine laws of the time regarding divorce. On his religious views, Borges declared himself an agnostic, clarifying: \"Being an agnostic means all things are possible, even God, even the Holy Trinity. This world is so strange that anything may happen, or may not happen.\"&#91;46&#93; Borges was taught to read the Bible by his English Protestant grandmother and he prayed the Our Father each night because of a promise he made to his mother. He also died in the presence of a priest.&#91;47&#93;During his final days in Geneva, Borges began brooding about the possibility of an afterlife. Although calm and collected about his own death, Borges began probing Kodama as to whether she inclined more towards the Shinto beliefs of her father or the Catholicism of her mother. Kodama \"had always regarded Borges as an Agnostic, as she was herself\", but given the insistence of his questioning, she offered to call someone more \"qualified\".&#91;48&#93; Borges responded, \"You are asking me if I want a priest.\" He then instructed her to call two clergymen, a Catholic priest, in memory of his mother, and a Protestant minister, in memory of his English grandmother. He was visited first by Father Pierre Jacquet and by Pastor Edouard de Montmollin.&#91;48&#93;Borges died of liver cancer on 14 June 1986, aged 86, in Geneva. His burial was preceded by an ecumenical service at the Protestant Cathédrale de Saint Pierre on 18 June. With many Swiss and Argentine dignitaries present, Pastor de Montmollin read the First Chapter of St John's Gospel. He then preached that \"Borges was a man who had unceasingly searched for the right word, the term that could sum up the whole, the final meaning of things.\" He said, however, that no man can reach that word through his own efforts and in trying becomes lost in a labyrinth. Pastor de Montmollin concluded, \"It is not man who discovers the word, it is the Word that comes to him.\"&#91;49&#93;Father Jacquet also preached, saying that, when visiting Borges before his death, he had found \"a man full of love, who received from the Church the forgiveness of his sins\".&#91;49&#93;&#91;50&#93; After the funeral, Borges was laid to rest in Geneva's Cimetière de Plainpalais. His grave, marked by a rough-hewn headstone, is adorned with carvings derived from Anglo-Saxon and Old Norse art and literature.&#91;51&#93;Kodama, his widow and heir on the basis of the marriage and two wills, gained control over his works. Her assertive administration of his estate resulted in a bitter dispute with the French publisher Gallimard regarding the republication of the complete works of Borges in French, with Pierre Assouline in Le Nouvel Observateur (August 2006) calling her \"an obstacle to the dissemination of the works of Borges\". Kodama took legal action against Assouline, considering the remark unjustified and defamatory, asking for a symbolic compensation of one euro.&#91;52&#93;&#91;53&#93;&#91;54&#93;Kodama also rescinded all publishing rights for existing collections of his work in English, including the translations by Norman Thomas di Giovanni, in which Borges himself collaborated, and from which di Giovanni would have received an unusually high fifty percent of the royalties. Kodama commissioned new translations by Andrew Hurley, which have become the official translations in English.&#91;55&#93;During the 1920s and 1930s, Borges was a vocal supporter of Hipólito Yrigoyen and the social democratic Radical Civic Union.&#91;56&#93; In 1945, Borges signed a manifesto calling for an end to military rule and the establishment of political liberty and democratic elections.&#91;57&#93; By the 1960s, he had grown more skeptical of democracy. During a 1971 conference at Columbia University, a creative writing student asked Borges what he regarded as \"a writer's duty to his time\". Borges replied, \"I think a writer's duty is to be a writer, and if he can be a good writer, he is doing his duty. Besides, I think of my own opinions as being superficial. For example, I am a Conservative, I hate the Communists, I hate the Nazis, I hate the anti-Semites, and so on; but I don't allow these opinions to find their way into my writings—except, of course, when I was greatly elated about the Six-Day War. Generally speaking, I think of keeping them in watertight compartments. Everybody knows my opinions, but as for my dreams and my stories, they should be allowed their full freedom, I think. I don't want to intrude into them, I'm writing fiction, not fables.\"&#91;58&#93; In the 1980s, towards the end of his life, Borges regained his earlier faith in democracy and held it out as the only hope for Argentina.&#91;57&#93; In 1983, Borges applauded the election of the Radical Civic Union's Raúl Alfonsín and welcomed the end of military rule with the following words: \"I once wrote that democracy is the abuse of statistics&#160;... On October 30, 1983, Argentine democracy refuted me splendidly. Splendidly and resoundingly.\"&#91;59&#93;&#91;60&#93;Borges recurrently declared himself a \"Spencerian anarchist who believes in the individual and not in the State\" due to his father's influence.&#91;61&#93;&#91;62&#93;&#91;63&#93; In an interview with Richard Burgin during the late 1960s, Borges described himself as a \"mild\" adherent of classical liberalism. He further recalled that his opposition to communism and to Marxism was absorbed in his childhood, stating: \"Well, I have been brought up to think that the individual should be strong and the State should be weak. I couldn't be enthusiastic about theories where the State is more important than the individual.\"&#91;64&#93; After the overthrow via coup d'état of President Juan Domingo Perón in 1955, Borges supported efforts to purge Argentina's Government of Peronists and dismantle the former President's welfare state. He was enraged that the Communist Party of Argentina opposed these measures and sharply criticized them in lectures and in print. Borges's opposition to the Party in this matter ultimately led to a permanent rift with his longtime lover, Argentine Communist Estela Canto.&#91;65&#93;In a 1956 interview given to El Hogar, he stated that \"[Communists] are in favor of totalitarian regimes and systematically combat freedom of thought, oblivious of the fact that the principal victims of dictatorships are, precisely, intelligence and culture.\"&#91;66&#93; Borges elaborated: \"Many people are in favor of dictatorships because they allow them to avoid thinking for themselves. Everything is presented to them ready-made. There are even agencies of the State that supply them with opinions, passwords, slogans, and even idols to exalt or cast down according to the prevailing wind or in keeping with the directives of the thinking heads of the single party.\"&#91;67&#93;In later years, Borges frequently expressed contempt for Marxist and Communist authors, poets, and intellectuals. In an interview with Burgin, Borges referred to Chilean poet Pablo Neruda as \"a very fine poet\" but a \"very mean man\" for unconditionally supporting the Soviet Union and demonizing the United States. Borges commented about Neruda, \"Now he knows that's rubbish.\"&#91;68&#93;In the same interview, Borges also criticized famed poet and playwright Federico García Lorca, who was abducted by Nationalist soldiers and executed without trial during the Spanish Civil War. In Borges's opinion, Lorca's poetry and plays, when examined against his tragic death, appeared better than they actually were.&#91;69&#93;In 1934, Argentine ultra-nationalists, sympathetic to Adolf Hitler and the Nazi Party, asserted Borges was secretly Jewish, and by implication, not truly Argentinian. Borges responded with the essay \"Yo, Judío\" (\"I, a Jew\"), a reference to the old phrase \"Yo, Argentino\" (\"I, an Argentine\") uttered by potential victims during pogroms against Argentine Jews, to signify one was not Jewish.&#91;70&#93; In the essay, Borges declares he would be proud to be a Jew, and remarks that any pure Castilian is likely to come from ancient Jewish descent, from a millennium ago.&#91;70&#93;Both before and during the Second World War, Borges regularly published essays attacking the Nazi police state and its racist ideology. His outrage was fueled by his deep love for German literature. In an essay published in 1937, Borges attacked the Nazi Party's use of children's books to inflame antisemitism. He wrote, \"I don't know if the world can do without German civilization, but I do know that its corruption by the teachings of hatred is a crime.\"&#91;71&#93;In a 1938 essay, Borges reviewed an anthology which rewrote German authors of the past to fit the Nazi party line. He was disgusted by what he described as Germany's \"chaotic descent into darkness\" and the attendant rewriting of history. He argued that such books sacrificed the German people's culture, history and integrity in the name of restoring their national honour. Such use of children's books for propaganda he writes, \"perfect the criminal arts of barbarians.\"&#91;72&#93;\nIn a 1944 essay, Borges postulated,.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}Nazism suffers from unreality, like Erigena's hell. It is uninhabitable; men can only die for it, lie for it, wound and kill for it. No one, in the intimate depths of his being, can wish it to triumph. I shall risk this conjecture: Hitler wants to be defeated. Hitler is blindly collaborating with the inevitable armies that will annihilate him, as the metal vultures and the dragon (which must have known that they were monsters) collaborated, mysteriously, with Hercules.\"&#91;73&#93;In 1946, Borges published the short story \"Deutsches Requiem\", which masquerades as the last testament of a condemned Nazi war criminal named Otto Dietrich zur Linde.\nIn a 1971 conference at Columbia University, Borges was asked about the story by a student from the creative writing program. He recalled, \"When the Germans were defeated I felt great joy and relief, but at the same time I thought of the German defeat as being somehow tragic, because here we have perhaps the most educated people in Europe,  who have a fine literature, a fine tradition of philosophy and poetry. Yet these people were bamboozled by a madman named Adolf Hitler, and I think there is tragedy there.\"&#91;74&#93;In a 1967 interview with Burgin, Borges recalled how his interactions with Argentina's Nazi sympathisers led him to create the story. He recalled, \"And then I realized that those people that were on the side of Germany, that they never thought of German victories or the German glory. What they really liked was the idea of the Blitzkrieg, of London being on fire, of the country being destroyed. As to the German fighters, they took no stock in them. Then I thought, well now Germany has lost, now America has saved us from this nightmare, but since nobody can doubt on which side I stood, I'll see what can be done from a literary point of view in favor of the Nazis. And then I created the ideal Nazi.\"&#91;75&#93;At Columbia University in 1971, Borges further elaborated on the story's creation, \"I tried to imagine what a real Nazi might be like. I mean someone who thought of violence as being praiseworthy for its own sake. Then I thought that this archetype of the Nazis wouldn't mind being defeated; after all, defeats and victories are mere matters of chance. He would still be glad of the fact, even if the Americans and British won the war. Naturally, when I am with Nazis, I find they are not my idea of what a Nazi is, but this wasn't meant to be a political tract. It was meant to stand for the fact that there was something tragic in the fate of a real Nazi. Except that I wonder if a real Nazi ever existed. At least, when I went to Germany, I never met one. They were all feeling sorry for themselves and wanted me to feel sorry for them as well.\"&#91;76&#93;In 1946, Argentine President Juan Perón began transforming Argentina into a one-party state with the assistance of his wife, Evita. Almost immediately, the spoils system was the rule of the day, as ideological critics of the ruling Partido Justicialista were fired from government jobs. During this period, Borges was informed that he was being \"promoted\" from his position at the Miguel Cané Library to a post as inspector of poultry and rabbits at the Buenos Aires municipal market. Upon demanding to know the reason, Borges was told, \"Well, you were on the side of the Allies, what do you expect?\"&#91;77&#93; Borges resigned the following day.\n\nPerón's treatment of Borges became a cause célèbre for the Argentine intelligentsia. The Argentine Society of Writers (SADE) held a formal dinner in his honour. At the dinner, a speech was read which Borges had written for the occasion. It said:Dictatorships breed oppression, dictatorships breed servility, dictatorships breed cruelty; more loathsome still is the fact that they breed idiocy. Bellboys babbling orders, portraits of caudillos, prearranged cheers or insults, walls covered with names, unanimous ceremonies, mere discipline usurping the place of clear thinking&#160;... Fighting these sad monotonies is one of the duties of a writer. Need I remind readers of Martín Fierro or Don Segundo that individualism is an old Argentine virtue.&#91;78&#93;In the aftermath, Borges found himself much in demand as a lecturer and one of the intellectual leaders of the Argentine opposition. In 1951 he was asked by anti-Peronist friends to run for president of SADE. Borges, then having depression caused by a failed romance, reluctantly accepted. He later recalled that he would awake every morning and remember that Perón was president and feel deeply depressed and ashamed.&#91;79&#93; Perón's government had seized control of the Argentine mass media and regarded SADE with indifference. Borges later recalled, however, \"Many distinguished men of letters did not dare set foot inside its doors.\"&#91;80&#93; Meanwhile, SADE became an increasing refuge for critics of the regime. SADE official Luisa Mercedes Levinson noted, \"We would gather every week to tell the latest jokes about the ruling couple and even dared to sing the songs of the French Resistance, as well as 'La Marseillaise'\".&#91;80&#93;After Evita Perón's death on 26 July 1952, Borges received a visit from two policemen, who ordered him to put up two portraits of the ruling couple on the premises of SADE. Borges indignantly refused, calling it a ridiculous demand. The policemen replied that he would soon face the consequences.&#91;81&#93; The Justicialist Party placed Borges under 24-hour surveillance and sent policemen to sit in on his lectures; in September they ordered SADE to be permanently closed down. Like much of the Argentine opposition to Perón, SADE had become marginalized due to persecution by the State, and very few active members remained.&#91;citation needed&#93;\nAccording to Edwin Williamson,Borges had agreed to stand for the presidency of the SADE in order [to] fight for intellectual freedom, but he also wanted to avenge the humiliation he believed he had suffered in 1946, when the Peronists had proposed to make him an inspector of chickens. In his letter of 1950 to Attilio Rossi, he claimed that his infamous promotion had been a clever way the Peronists had found of damaging him and diminishing his reputation. The closure of the SADE meant that the Peronists had damaged him a second time, as was borne out by the visit of the Spanish writer Julián Marías, who arrived in Buenos Aires shortly after the closure of the SADE. It was impossible for Borges, as president, to hold the usual reception for the distinguished visitor; instead, one of Borges's friends brought a lamb from his ranch, and they had it roasted at a tavern across the road from the SADE building on Calle Mexico. After dinner, a friendly janitor let them into the premises, and they showed Marías around by candlelight. That tiny group of writers leading a foreign guest through a dark building by the light of guttering candles was vivid proof of the extent to which the SADE had been diminished under the rule of Juan Perón.&#91;82&#93;On 16 September 1955, General Pedro Eugenio Aramburu's Revolución Libertadora toppled the ruling party and forced Perón into exile. Borges was overjoyed and joined demonstrators marching through the streets of Buenos Aires. According to Williamson, Borges shouted, \"Viva la Patria\", until his voice grew hoarse. Due to the influence of Borges's mother and his own role on the opposition to Peron, the provisional government appointed Borges as the Director of the National Library.&#91;83&#93;In his essay L'Illusion Comique, Borges wrote there were two histories of Peronism in Argentina. The first he described as \"the criminal one\", composed of the police state tactics used against both real and imagined anti-Peronists. The second history was, according to Borges, \"the theatrical one\" composed of \"tales and fables made for consumption by dolts.\" He argued that, despite their claims to detest capitalism, Juan and Eva Perón \"copied its methods, dictating names and slogans to the people\" in the same way that multi-national corporations \"impose their razor blades, cigarettes, and washing machines.\" Borges then listed the numerous conspiracy theories the ruling couple dictated to their followers and how those theories were accepted without question.&#91;84&#93;\nBorges concluded:It is useless to list the examples; one can only denounce the duplicity of the fictions of the former regime, which can't be believed and were believed. It will be said that the public's lack of sophistication is enough to explain the contradiction; I believe that the cause is more profound. Coleridge spoke of the \"willing suspension of disbelief,\" that is, poetic faith; Samuel Johnson said, in defense of Shakespeare, that the spectators at a tragedy do not believe they are in Alexandria in the first act and Rome in the second but submit to the pleasure of a fiction. Similarly, the lies of a dictatorship are neither believed nor disbelieved; they pertain to an intermediate plane, and their purpose is to conceal or justify sordid or atrocious realities. They pertain to the pathetic or the clumsily sentimental. Happily, for the enlightenment and security of the Argentines, the current regime has understood that the function of government is not to inspire pathos.&#91;85&#93;In a 1967 interview, Borges said, \"Perón was a humbug, and he knew it, and everybody knew it. But Perón could be very cruel. I mean, he had people tortured, killed. And his wife was a common prostitute.\"&#91;86&#93;When Perón returned from exile in 1973 and regained the Presidency, Borges was enraged. In a 1975 interview for National Geographic, he said \"Damn, the snobs are back in the saddle. If their posters and slogans again defile the city, I'll be glad I've lost my sight. Well, they can't humiliate me as they did before my books sold well.\"&#91;87&#93;After being accused of being unforgiving, Borges quipped, \"I resented Perón's making Argentina look ridiculous to the world&#160;... as in 1951, when he announced control overthermonuclear fusion, which still hasn't happened anywhere but in the sun and the stars. For a time, Argentines hesitated to wear band aids for fear friends would ask, 'Did the atomic bomb go off in your hand?' A shame, because Argentina really has world-class scientists.\"&#91;87&#93;After Borges's death in 1986, the Peronist Partido Justicialista declined to send a delegate to the writer's memorial service in Buenos Aires. A spokesman for the Party said that this was in reaction to \"certain declarations he had made about the country.\"&#91;88&#93; Later, at the City Council of Buenos Aires, Peronist politicians refused to honor Borges as an Argentine, commenting that he \"chose to die abroad.\" When infuriated politicians from the other parties demanded to know the real reason, the Peronists finally explained that Borges had made statements about Evita Perón which they called \"unacceptable\".&#91;88&#93;During the 1970s, Borges at first expressed support for Argentina's military junta, but was scandalized by the junta's actions during the Dirty War. In protest against their support of the regime, Borges ceased publishing in the newspaper La Nación.&#91;89&#93;In 1985, he wrote a short poem about the Falklands War called Juan López y John Ward, about two fictional soldiers (one from each side), who died in the Falklands, in which he refers to \"islands that were too famous\". He also said about the war: \"The Falklands thing was a fight between two bald men over a comb.\"&#91;90&#93;Borges was an observer at the trials of the military junta in 1985 and wrote that \"not to judge and condemn the crimes would be to encourage impunity and to become, somehow, its accomplice.\"&#91;59&#93; Borges added that \"the news of the missing people, the crimes and atrocities [the military] committed\" had inspired him to return to his earlier Emersonian faith in democracy.&#91;59&#93;Borges believed that indigenous peoples in what is now called Argentina had no traditions:\n“There’s no native tradition of any kind since the Indians here were mere barbarians. We have to fall back on the European tradition, why not? It’s a very fine tradition.”&#91;91&#93;Wardrip-Fruin and Montfort argue that Borges \"may have been the most important figure in Spanish-language literature since Cervantes. He was clearly of tremendous influence, writing intricate poems, short stories, and essays that instantiated concepts of dizzying power.\"&#91;92&#93; Borges's work has been compared to that of Homer and Milton.&#91;93&#93; Indeed, the critic Harold Bloom numbers Borges among the key figures of the Western literary canon.&#91;94&#93;In addition to short stories for which he is most noted, Borges also wrote poetry, essays, screenplays, literary criticism, and edited numerous anthologies. His longest work of fiction is a fourteen-page story, \"The Congress\", first published in 1971.&#91;9&#93; His late-onset blindness strongly influenced his later writing. Borges wrote: \"When I think of what I've lost, I ask, 'Who know themselves better than the blind?' – for every thought becomes a tool.\"&#91;95&#93;Paramount among his intellectual interests are elements of mythology, mathematics, theology, integrating these through literature, sometimes playfully, sometimes with great seriousness.&#91;96&#93;Borges composed poetry throughout his life. As his eyesight waned (it came and went, with a struggle between advancing age and advances in eye surgery), he increasingly focused on writing poetry, since he could memorize an entire work in progress.&#91;97&#93;His poems embrace the same wide range of interests as his fiction, along with issues that emerge in his critical works and translations, and from more personal musings. For example, his interest in idealism runs through his work, reflected in the fictional world of Tlön in \"Tlön, Uqbar, Orbis Tertius\" and in his essay \"A New Refutation of Time\".&#91;98&#93;Borges was a notable translator. He translated works of literature in English, French, German, Old English, and Old Norse into Spanish. His first publication, for a Buenos Aires newspaper, was a translation of Oscar Wilde's story \"The Happy Prince\" into Spanish when he was nine.&#91;99&#93; At the end of his life he produced a Spanish-language version of a part of Snorri Sturluson's Prose Edda. He also translated (while simultaneously subtly transforming) the works of, among others, Ambrose Bierce, William Faulkner, André Gide, Hermann Hesse, Franz Kafka, Rudyard Kipling, Edgar Allan Poe, Walt Whitman, and Virginia Woolf.&#91;Note 5&#93; Borges wrote and lectured extensively on the art of translation, holding that a translation may improve upon the original, may even be unfaithful to it, and that alternative and potentially contradictory renderings of the same work can be equally valid.&#91;100&#93; Borges employed the devices of literary forgery and the review of an imaginary work, both forms of modern pseudo-epigrapha.\nBorges's best-known set of literary forgeries date from his early work as a translator and literary critic with a regular column in the Argentine magazine El Hogar. Along with publishing numerous legitimate translations, he also published original works, for example, in the style of Emanuel Swedenborg&#91;Note 6&#93; or One Thousand and One Nights, originally claiming them to be translations of works he had chanced upon.  In another case, he added three short, falsely attributed pieces into his otherwise legitimate and carefully researched anthology El matrero.&#91;Note 6&#93; Several of these are gathered in the A Universal History of Infamy.\nWhile Borges was the great popularizer of the review of an imaginary work, he had developed the idea from Thomas Carlyle's Sartor Resartus, a book-length review of a non-existent German transcendentalist work, and the biography of its equally non-existent author. In This Craft of Verse, Borges says that in 1916 in Geneva \"[I] discovered, and was overwhelmed by, Thomas Carlyle. I read Sartor Resartus, and I can recall many of its pages; I know them by heart.\"&#91;101&#93;In the introduction to his first published volume of fiction, The Garden of Forking Paths, Borges remarks, \"It is a laborious madness and an impoverishing one, the madness of composing vast books, setting out in five hundred pages an idea that can be perfectly related orally in five minutes. The better way to go about it is to pretend that those books already exist, and offer a summary, a commentary on them.\" He then cites both Sartor Resartus and Samuel Butler's The Fair Haven, remarking, however, that \"those works suffer under the imperfection that they themselves are books, and not a whit less tautological than the others. A more reasonable, more inept, and more lazy man, I have chosen to write notes on imaginary books.\"&#91;102&#93;On the other hand, some works were wrongly attributed to Borges, like the poem \"Instantes\".&#91;103&#93;&#91;104&#93;Borges's change in style from regionalist criollismo to a more cosmopolitan style brought him much criticism from journals such as Contorno, a leftist, Sartre-influenced Argentine publication founded by David Viñas and his brother, along with other intellectuals such as Noé Jitrik and Adolfo Prieto. In the post-Peronist Argentina of the early 1960s, Contorno met with wide approval from the youth who challenged the authenticity of older writers such as Borges and questioned their legacy of experimentation. Magic realism and exploration of universal truths, they argued, had come at the cost of responsibility and seriousness in the face of society's problems.&#91;105&#93;The Contorno writers acknowledged Borges and Eduardo Mallea for being \"doctors of technique\" but argued that their work lacked substance due to their lack of interaction with the reality that they inhabited, an existentialist critique of their refusal to embrace existence and reality in their artwork.&#91;105&#93;The story \"The Sect of the Phoenix\" is famously interpreted to allude to the ubiquity of sexual intercourse among humans&#91;106&#93; – a concept whose essential qualities the narrator of the story is not able to relate to.\nWith a few notable exceptions, women are almost entirely absent from Borges's fiction.&#91;107&#93; However, there are some instances in Borges's later writings of romantic love, for example the story \"Ulrikke\" from The Book of Sand. The protagonist of the story \"El muerto\" also lusts after the \"splendid, contemptuous, red-haired woman\" of Azevedo Bandeira&#91;108&#93; and later \"sleeps with the woman with shining hair\".&#91;109&#93; Although they do not appear in the stories, women are significantly discussed as objects of unrequited love in his short stories \"The Zahir\" and \"The Aleph\".&#91;110&#93;&#91;page&#160;needed&#93; The plot of La Intrusa was based on a true story of two friends. Borges turned their fictional counterparts into brothers, excluding the possibility of a homosexual relationship.&#91;111&#93;\"Emma Zunz\" is Borges's only story with a female protagonist.&#91;112&#93; Originally published in 1948, this work tells the tale of a young Jewish woman who kills a man in order to avenge the disgrace and suicide of her father. She carefully plans the crime, submitting to an unpleasant sexual encounter with a stranger in order to create the appearance of sexual impropriety in her intended victim. Despite the fact that she premeditates and executes a murder, the eponymous heroine of this story is surprisingly likable, both because of intrinsic qualities in the character (interestingly enough, she believes in nonviolence) and because the story is narrated from a \"remote but sympathetic\" point of view that highlights the poignancy of her situation.&#91;113&#93;Borges was never awarded the Nobel Prize in Literature, something which continually distressed the writer.&#91;9&#93; He was one of several distinguished authors who never received the honour.&#91;114&#93; Borges commented, \"Not granting me the Nobel Prize has become a Scandinavian tradition; since I was born they have not been granting it to me\".&#91;115&#93;Some observers speculated that Borges did not receive the award in his later life because of his conservative political views, or, more specifically, because he had accepted an honour from Chilean dictator Augusto Pinochet.&#91;116&#93;&#91;117&#93;Borges was however among the short-listed candidates several times. In 1965 he was considered along with Vladimir Nabokov, Pablo Neruda and Mikhail Sholokhov, and in 1966 a shared prize to Borges and Miguel Ángel Asturias was proposed.&#91;118&#93; Borges was nominated again in 1967, and was among the final three choices considered by the committee, according to Nobel records unsealed on the 50th anniversary, in 2017. The committee considered Borges, Graham Greene and Miguel Ángel Asturias, with the last chosen winner.&#91;119&#93;Many of Borges's best-known stories deal with themes of time (\"The Secret Miracle\"), infinity (\"The Aleph\"), mirrors (\"Tlön, Uqbar, Orbis Tertius\") and labyrinths (\"The Two Kings and the Two Labyrinths\", \"The House of Asterion\", \"The Immortal\", \"The Garden of Forking Paths\"). Williamson writes, \"His basic contention was that fiction did not depend on the illusion of reality; what mattered ultimately was an author's ability to generate 'poetic faith' in his reader.\"&#91;9&#93;His stories often have fantastical themes, such as a library containing every possible 410-page text (\"The Library of Babel\"), a man who forgets nothing he experiences (\"Funes, the Memorious\"), an artifact through which the user can see everything in the universe (\"The Aleph\"), and a year of still time given to a man standing before a firing squad (\"The Secret Miracle\"). Borges told realistic stories of South American life, of folk heroes, streetfighters, soldiers, gauchos, detectives, and historical figures. He mixed the real and the fantastic, fact with fiction. His interest in compounding fantasy, philosophy, and the art of translation are evident in articles such as \"The Translators of The Book of One Thousand and One Nights\". In the Book of Imaginary Beings, a thoroughly researched bestiary of mythical creatures, Borges wrote, \"There is a kind of lazy pleasure in useless and out-of-the-way erudition.\"&#91;120&#93; Borges's interest in fantasy was shared by Bioy Casares, with whom he coauthored several collections of tales between 1942 and 1967.&#91;citation needed&#93;Often, especially early in his career, the mixture of fact and fantasy crossed the line into the realm of hoax or literary forgery.&#91;Note 6&#93;\"The Garden of Forking Paths\" (1941) presents the idea of forking paths through networks of time, none of which is the same, all of which are equal. Borges uses the recurring image of \"a labyrinth that folds back upon itself in infinite regression\" so we \"become aware of all the possible choices we might make.\"&#91;121&#93; The forking paths have branches to represent these choices that ultimately lead to different endings. Borges saw man's search for meaning in a seemingly infinite universe as fruitless and instead uses the maze as a riddle for time, not space.&#91;121&#93; He examined the themes of universal randomness (\"The Lottery in Babylon\") and madness (\"The Zahir\"). Due to the success of the \"Forking Paths\" story, the term \"Borgesian\" came to reflect a quality of narrative non-linearity.&#91;Note 7&#93;\nThe philosophical term \"Borgesian conundrum\" is named after him and has been defined as the ontological question of \"whether the writer writes the story, or it writes him.\"&#91;122&#93; The original concept was put forward by Borges in his essay \"Kafka and His Precursors\". After reviewing works that were written before those of Kafka, Borges wrote:If I am not mistaken, the heterogeneous pieces I have enumerated resemble Kafka; if I am not mistaken, not all of them resemble each other. The second fact is the more significant. In each of these texts we find Kafka's idiosyncrasy to a greater or lesser degree, but if Kafka had never written a line, we would not perceive this quality; in other words, it would not exist. The poem \"Fears and Scruples\" by Browning foretells Kafka's work, but our reading of Kafka perceptibly sharpens and deflects our reading of the poem. Browning did not read it as we do now. In the critics' vocabulary, the word 'precursor' is indispensable, but it should be cleansed of all connotation of polemics or rivalry. The fact is that every writer creates his own precursors. His work modifies our conception of the past, as it will modify the future.\"&#91;123&#93;Along with other young Argentine writers of his generation, Borges initially rallied around the fictional character of Martín Fierro. Martín Fierro, a poem by José Hernández, was a dominant work of 19th century Argentine literature. Its eponymous hero became a symbol of Argentine sensibility, untied from European values – a gaucho, free, poor, pampas-dwelling.&#91;124&#93;The character Fierro is illegally drafted to serve at a border fort to defend it against the indigenous population but ultimately deserts to become a gaucho matrero, the Argentine equivalent of a North American western outlaw. Borges contributed keenly to the avant garde Martín Fierro magazine in the early 1920s.&#91;citation needed&#93;As Borges matured, he came to a more nuanced attitude toward the Hernández poem. In his book of essays on the poem, Borges separates his admiration for the aesthetic virtues of the work from his mixed opinion of the moral virtues of its protagonist.&#91;125&#93; In his essay \"The Argentine Writer and Tradition\" (1951), Borges celebrates how Hernández expresses the Argentine character. In a key scene in the poem, Martín Fierro and El Moreno compete by improvising songs on universal themes such as time, night, and the sea, reflecting the real-world gaucho tradition of payadas, improvised musical dialogues on philosophical themes.&#91;124&#93;&#91;126&#93; Borges points out that Hernández evidently knew the difference between actual gaucho tradition of composing poetry versus the \"gauchesque\" fashion among Buenos Aires literati.&#91;citation needed&#93;In his works he refutes the arch-nationalist interpreters of the poem and disdains others, such as critic Eleuterio Tiscornia, for their Europeanising approach. Borges denies that Argentine literature should distinguish itself by limiting itself to \"local colour\", which he equates with cultural nationalism.&#91;126&#93;Racine and Shakespeare's work, he says, looked beyond their countries' borders. Neither, he argues, need the literature be bound to the heritage of old world Spanish or European tradition. Nor should it define itself by the conscious rejection of its colonial past. He asserts that Argentine writers need to be free to define Argentine literature anew, writing about Argentina and the world from the point of view of those who have inherited the whole of world literature.&#91;126&#93; Williamson says \"Borges's main argument is that the very fact of writing from the margins provides Argentine writers with a special opportunity to innovate without being bound to the canons of the centre,&#160;... at once a part of and apart from the centre, which gives them much potential freedom\".&#91;124&#93;Borges focused on universal themes, but also composed a substantial body of literature on themes from Argentine folklore and history. His first book, the poetry collection Fervor de Buenos Aires (Passion for Buenos Aires), appeared in 1923. Borges's writings on things Argentine include Argentine culture (\"History of the Tango\"; \"Inscriptions on Horse Wagons\"), folklore (\"Juan Muraña\", \"Night of the Gifts\"), literature (\"The Argentine Writer and Tradition\", \"Almafuerte\"; \"Evaristo Carriego\"), and national concerns (\"Celebration of the Monster\", \"Hurry, Hurry\", \"The Mountebank\", \"Pedro Salvadores\"). Ultranationalists, however, continued to question his Argentine identity.&#91;127&#93;Borges's interest in Argentine themes reflects, in part, the inspiration of his family tree. Borges had an English paternal grandmother who, around 1870, married the criollo Francisco Borges, a man with a military command and a historic role in the Argentine Civil Wars in what are now Argentina and Uruguay.&#91;128&#93;&#91;129&#93;&#91;130&#93;Spurred by pride in his family's heritage, Borges often used those civil wars as settings in fiction and quasi-fiction (for example, \"The Life of Tadeo Isidoro Cruz,\" \"The Dead Man,\" \"Avelino Arredondo\") as well as poetry (\"General Quiroga Rides to His Death in a Carriage\"). Borges's maternal great-grandfather, Manuel Isidoro Suárez, was another military hero, whom Borges immortalized in the poem \"A Page to Commemorate Colonel Suárez, Victor at Junín\".\n&#91;131&#93;\nHis nonfiction explores many of the themes found in his fiction. Essays such as \"The History of the Tango\" or his writings on the epic poem \"Martín Fierro\" explore Argentine themes, such as the identity of the Argentine people and of various Argentine subcultures. The varying genealogies of characters, settings, and themes in his stories, such as \"La muerte y la brújula\", used Argentine models without pandering to his readers or framing Argentine culture as \"exotic\".&#91;127&#93;In fact, contrary to what is usually supposed, the geographies found in his fictions often do not correspond to those of real-world Argentina.&#91;132&#93; In his essay \"El escritor argentino y la tradición\", Borges notes that the very absence of camels in the Qur'an was proof enough that it was an Arabian work (despite the fact that camels are, in fact, mentioned in the Qur'an). He suggested that only someone trying to write an \"Arab\" work would purposefully include a camel.&#91;127&#93; He uses this example to illustrate how his dialogue with universal existential concerns was just as Argentine as writing about gauchos and tangos.&#91;citation needed&#93;At the time of the Argentine Declaration of Independence in 1816, the population was predominantly criollo (of Spanish ancestry). From the mid-1850s on waves of immigration from Europe, especially Italy and Spain, arrived in the country, and in the following decades the Argentine national identity diversified.&#91;9&#93;&#91;133&#93; Borges was writing in a strongly European literary context, immersed in Spanish, English, French, German, Italian, Anglo-Saxon and Old Norse literature. He also read translations of Near Eastern and Far Eastern works. Borges's writing is also informed by scholarship of Christianity, Buddhism, Islam, and Judaism, including prominent religious figures, heretics, and mystics.&#91;134&#93;Religion and heresy are explored in such stories as \"Averroes's Search\", \"The Writing of the God\", \"The Theologians\", and \"Three Versions of Judas\". The curious inversion of mainstream Christian concepts of redemption in the last story is characteristic of Borges's approach to theology in his literature.&#91;135&#93;In describing himself, he said, \"I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities that I have visited, all my ancestors.\"&#91;115&#93; As a young man, he visited the frontier pampas which extend beyond Argentina into Uruguay and Brazil. Borges said that his father wished him \"to become a citizen of the world, a great cosmopolitan,\" in the way of Henry and William James.&#91;136&#93;Borges lived and studied in Switzerland and Spain as a young student. As Borges matured, he traveled through Argentina as a lecturer and, internationally, as a visiting professor; he continued to tour the world as he grew older, finally settling in Geneva where he had spent some of his youth. Drawing on the influence of many times and places, Borges's work belittled nationalism and racism.&#91;127&#93; However, Borges also scorned his own Basque ancestry and criticised the abolition of slavery in America because he believed black people were happier remaining uneducated and without freedom.&#91;137&#93; Portraits of diverse coexisting cultures characteristic of Argentina are especially pronounced in the book Six Problems for don Isidoro Parodi (co-authored with Bioy Casares) and Death and the Compass. Borges wrote that he considered Mexican writer Alfonso Reyes to be \"the best prose-writer in the Spanish language of any time.\"&#91;138&#93;Borges was also an admirer of Asian culture, e.g. the ancient Chinese board game of Go, about which he penned some verses,&#91;139&#93; while The Garden of Forking Paths had a strong Chinese theme.\nBorges was rooted in the Modernism predominant in its early years and was influenced by Symbolism.&#91;140&#93; Like Vladimir Nabokov and James Joyce, he combined an interest in his native culture with broader perspectives, also sharing their multilingualism and inventiveness with language. However, while Nabokov and Joyce tended toward progressively larger works, Borges remained a miniaturist. His work progressed away from what he referred to as \"the baroque\": his later style is far more transparent and naturalistic than his earlier works. Borges represented the humanist view of media that stressed the social aspect of art driven by emotion. If art represented the tool, then Borges was more interested in how the tool could be used to relate to people.&#91;92&#93;Existentialism saw its apogee during the years of Borges's greatest artistic production. It has been argued that his choice of topics largely ignored existentialism's central tenets. Critic Paul de Man notes, \"Whatever Borges's existential anxieties may be, they have little in common with Sartre's robustly prosaic view of literature, with the earnestness of Camus' moralism, or with the weighty profundity of German existential thought. Rather, they are the consistent expansion of a purely poetic consciousness to its furthest limits.\"&#91;141&#93;The essay collection Borges y la Matemática (Borges and Mathematics, 2003) by Argentine mathematician and writer Guillermo Martínez outlines how Borges used concepts from mathematics in his work. Martínez states that Borges had, for example, at least a superficial knowledge of set theory, which he handles with elegance in stories such as \"The Book of Sand\".&#91;142&#93; Other books such as The Unimaginable Mathematics of Borges' Library of Babel by William Goldbloom Bloch (2008) and Unthinking Thinking: Jorge Luis Borges, Mathematics, and the New Physics by Floyd Merrell (1991) also explore this relationship.\nFritz Mauthner, philosopher of language and author of the Wörterbuch der Philosophie (Dictionary of Philosophy), had an important influence on Borges. Borges always recognized the influence of this German philosopher.&#91;143&#93; According to the literary review Sur, the book was one of the five books most noted and read by Borges. The first time that Borges mentioned Mauthner was in 1928 in his book The language of the Argentines (El idioma de los argentinos). In a 1962 interview Borges described Mauthner as possessing a fine sense of humor as well as great knowledge and erudition.&#91;144&#93;In an interview,&#91;145&#93;Denis Dutton asked Borges who were the \"philosophers who have influenced your works, in whom you’ve been the most interested\". In reply, Borges named Berkeley and Schopenhauer.\nHe was also influenced by Spinoza, about whom Borges wrote a famous poem.&#91;146&#93;It is not without humour that Borges once wrote “Siempre imaginé que el Paraíso sería algún tipo de biblioteca.” (I always imagined Paradise to be some kind of a library.)&#91;147&#93;",
+    "imageNames": [
+      "220px-Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg",
+      "150px-Jorge_Luis_Borges_firma.svg.png",
+      "11px-Loudspeaker.svg.png",
+      "220px-Borges_1921.jpg",
+      "220px-Bioy_Casares%2C_Ocampo_y_Borges.jpg",
+      "170px-JorgeLuisBorges.jpg",
+      "220px-Jorge_Luis_Borges.jpg",
+      "220px-Jorge_Luis_Borges_Hotel.jpg",
+      "220px-Maria_Kodama.jpg",
+      "220px-Borges_Grave_Cemetery_Geneva.jpg",
+      "170px-Borges_y_Sabato_-_1.jpg",
+      "220px-Busto_de_Jorge_Luis_Borges.JPG",
+      "220px-Borges_Lisboa_1.JPG",
+      "220px-Borges_001.JPG",
+      "220px-Plaque_Jorge_Luis_Borges%2C_13_rue_des_Beaux-Arts%2C_Paris_6.jpg",
+      "27px-Wiktionary-logo-v2.svg.png",
+      "20px-Commons-logo.svg.png",
+      "23px-Wikiquote-logo.svg.png",
+      "27px-Wikidata-logo.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+      "start?type=1x1"
+    ]
+  }
+}

@@ -2,8 +2,8 @@
 let loadbar = 0;
 let failedLoads = [];
 let jsonDocuments = [
-  "./json/Dickens.json"
-  // "./json/Short1.json"
+  "./json/borges.json",
+  "./json/babel.json"
   // "./json/WebScraping.json",
   // "./json/Copyright.json"
   // "./json/DeathOfTheAuthor.json"

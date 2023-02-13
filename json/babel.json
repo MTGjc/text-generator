@@ -1,0 +1,994 @@
+{
+  "name": "babel",
+  "url": "https://en.wikipedia.org/wiki/The_Library_of_Babel",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Library_of_Babel_(website)",
+        "text": "The Library of Babel (website)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:The_library_of_babel_-_bookcover.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Argentina",
+        "text": "Argentina"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spanish_language",
+        "text": "Spanish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fantasy",
+        "text": "Fantasy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spanish_language",
+        "text": "Spanish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Short_story",
+        "text": "short story"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Argentina",
+        "text": "Argentine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Librarian",
+        "text": "librarian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Universe",
+        "text": "universe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Character_set",
+        "text": "character set"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spanish_language",
+        "text": "Spanish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/1941_in_literature",
+        "text": "1941"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths",
+        "text": "El jardín de senderos que se bifurcan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ficciones",
+        "text": "Ficciones"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/1944_in_literature",
+        "text": "1944"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/English_language",
+        "text": "English-language"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Translation",
+        "text": "translations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/1962_in_literature",
+        "text": "1962"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Labyrinths_(short_story_collection)",
+        "text": "Labyrinths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hexagon",
+        "text": "hexagonal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grapheme",
+        "text": "characters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gibberish",
+        "text": "gibberish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Permutation",
+        "text": "permutation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Language",
+        "text": "languages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Superstitious",
+        "text": "superstitious"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cult",
+        "text": "cult"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Messianic_figure",
+        "text": "messianic figure"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Jorge_Luis_Borges.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Jorge_Luis_Borges.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/1939_in_literature",
+        "text": "1939"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Total_Library",
+        "text": "The Total Library"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kurd_Lasswitz",
+        "text": "Kurd Lasswitz"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/1901_in_literature",
+        "text": "1901"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aristotle",
+        "text": "Aristotle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Democritus",
+        "text": "Democritus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leucippus",
+        "text": "Leucippus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gustav_Theodor_Fechner",
+        "text": "Gustav Theodor Fechner"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kurd_Lasswitz",
+        "text": "Kurd Lasswitz"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theodor_Wolff",
+        "text": "Theodor Wolff"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Llull",
+        "text": "Ramón Llull"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infinity",
+        "text": "infinity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reality",
+        "text": "reality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kabbalah",
+        "text": "cabalistic reasoning"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Labyrinth",
+        "text": "labyrinths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infinite_monkey_theorem",
+        "text": "Borel's dactylographic monkey theorem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/British_Museum",
+        "text": "British Museum"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sonnet_123",
+        "text": "Sonnet 123"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Book_of_Sand",
+        "text": "The Book of Sand"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bonaventura_Cavalieri",
+        "text": "Bonaventura Cavalieri"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sphere",
+        "text": "sphere"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Circumference",
+        "text": "circumference"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematician",
+        "text": "mathematician"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosopher",
+        "text": "philosopher"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+        "text": "Blaise Pascal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metaphor",
+        "text": "metaphor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Robert_Burton_(scholar)",
+        "text": "Robert Burton"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy",
+        "text": "The Anatomy of Melancholy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Recursion#In_language",
+        "text": "recursion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel",
+        "text": "The Unimaginable Mathematics of Borges' Library of Babel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hamiltonian_cycle",
+        "text": "Hamiltonian cycle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/W._V._O._Quine",
+        "text": "W.&#160;V.&#160;O. Quine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Morse_code",
+        "text": "Morse code"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sequence_space_(evolution)",
+        "text": "protein sequence space"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+        "text": "Daniel Dennett"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
+        "text": "Darwin's Dangerous Idea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genetic_variation",
+        "text": "genetic variation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Toshiba",
+        "text": "Toshiba"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Umberto_Eco",
+        "text": "Umberto Eco"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
+        "text": "The Name of the Rose"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interzone_(magazine)",
+        "text": "Interzone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/David_Langford",
+        "text": "David Langford"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Computer",
+        "text": "computerized"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Data",
+        "text": "data"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Information",
+        "text": "information"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Satire",
+        "text": "satirizing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Internet",
+        "text": "Internet"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Russell_K._Standish",
+        "text": "Russell Standish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ultimate_ensemble",
+        "text": "ultimate ensemble"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Michael_Ende",
+        "text": "Michael Ende"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Neverending_Story",
+        "text": "The Neverending Story"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infinite_monkey_theorem",
+        "text": "infinite monkey theorem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Terry_Pratchett",
+        "text": "Terry Pratchett"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Discworld",
+        "text": "Discworld"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Orangutan",
+        "text": "orangutan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel",
+        "text": "The Unimaginable Mathematics of Borges' Library of Babel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Topology",
+        "text": "topology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Information_theory",
+        "text": "information theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greg_Bear",
+        "text": "Greg Bear"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/City_at_the_End_of_Time",
+        "text": "City at the End of Time"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tl%C3%B6n,_Uqbar,_Orbis_Tertius",
+        "text": "Tlön, Uqbar, Orbis Tertius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Book_of_Imaginary_Beings",
+        "text": "Book of Imaginary Beings"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Milo_Manara",
+        "text": "Milo Manara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steven_L._Peck",
+        "text": "Steven L. Peck"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sheridan_Le_Fanu",
+        "text": "J. Sheridan Le Fanu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+        "text": "Christopher Nolan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+        "text": "Interstellar"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Matthew_McConaughey",
+        "text": "Matthew McConaughey"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tesseract",
+        "text": "tesseract"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Library_of_Babel_(website)",
+        "text": "The Library of Babel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platform_game",
+        "text": "platformer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stealth_game",
+        "text": "stealth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Adventure_game",
+        "text": "graphic adventure"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Encyclopedia_Galactica",
+        "text": "Encyclopedia Galactica"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akashic_Records",
+        "text": "Akashic Records"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infinite_monkey_theorem",
+        "text": "Infinite monkey theorem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Law_of_truly_large_numbers",
+        "text": "Law of truly large numbers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Normal_number",
+        "text": "Normal number"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Library_of_Babel_(website)",
+        "text": "The Library of Babel (website)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Universal_library",
+        "text": "Universal library"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/World_Brain",
+        "text": "World Brain"
+      },
+      {
+        "href": "https://libraryofbabel.info/",
+        "text": "https://libraryofbabel.info/"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780262030113",
+        "text": "9780262030113"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/12964950",
+        "text": "12964950"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brian_Hayes_(scientist)",
+        "text": "Hayes, Brian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_Scientist",
+        "text": "American Scientist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1511%2F2009.76.78",
+        "text": "10.1511/2009.76.78"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+        "text": "JSTOR"
+      },
+      {
+        "href": "//www.jstor.org/stable/27859279",
+        "text": "27859279"
+      },
+      {
+        "href": "https://web.archive.org/web/20140628033859/http://jubal.westnet.com/hyperdiscordia/universal_library.html",
+        "text": "\"Universal Library\""
+      },
+      {
+        "href": "http://jubal.westnet.com/hyperdiscordia/universal_library.html",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fs0065-3233%2801%2955000-7",
+        "text": "10.1016/s0065-3233(01)55000-7"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/11050930",
+        "text": "11050930"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.chembiol.2007.03.002",
+        "text": "\"Beyond cataloging the Library of Babel\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.chembiol.2007.03.002",
+        "text": "10.1016/j.chembiol.2007.03.002"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/17379136",
+        "text": "17379136"
+      },
+      {
+        "href": "http://www.hpcoders.com.au/nothing.html",
+        "text": "\"Theory of Nothing\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Unimaginable_Mathematics_of_Borges%27_Library_of_Babel",
+        "text": "The Unimaginable Mathematics of Borges' Library of Babel"
+      },
+      {
+        "href": "https://wheatoncollege.edu/academics/faculty-directory/bill-goldbloom-bloch/",
+        "text": "\"William Goldbloom Bloch's home page\""
+      },
+      {
+        "href": "http://www.bfi.org.uk/news-opinion/sight-sound-magazine/reviews-recommendations/review-interstellar",
+        "text": "\"Review: Interstellar\""
+      },
+      {
+        "href": "https://www.npr.org/sections/13.7/2014/11/13/363444786/the-science-of-interstellar",
+        "text": "\"The Science Of 'Interstellar'\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/NPR",
+        "text": "NPR"
+      },
+      {
+        "href": "https://www.theatlantic.com/amp/article/382636/",
+        "text": "\"Interstellar Isn't About Religion (and Also It Is Totally About Religion)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Atlantic",
+        "text": "The Atlantic"
+      },
+      {
+        "href": "https://www.flavorwire.com/515783/brooklyn-author-recreates-borges-library-of-babel-as-infinite-website",
+        "text": "\"Brooklyn Author Recreates Borges' Library of Babel as Infinite Website\""
+      },
+      {
+        "href": "https://gamefaqs.gamespot.com/ps5/322125-the-library-of-babel/data",
+        "text": "\"The Library of Babel Release Information for PlayStation 5 - GameFAQs\""
+      },
+      {
+        "href": "https://tanukigamestudio.com/our-games/the-library-of-babel",
+        "text": "\"The Library Of Babel\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Jorge_Luis_Borges",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Jorge_Luis_Borges",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+        "text": "Jorge Luis Borges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges_bibliography",
+        "text": "Bibliography"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A_Universal_History_of_Infamy",
+        "text": "A Universal History of Infamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Man_on_Pink_Corner",
+        "text": "Man on Pink Corner"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/On_Exactitude_in_Science",
+        "text": "On Exactitude in Science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ficciones",
+        "text": "Ficciones"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tl%C3%B6n,_Uqbar,_Orbis_Tertius",
+        "text": "Tlön, Uqbar, Orbis Tertius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Approach_to_Al-Mu%27tasim",
+        "text": "The Approach to Al-Mu'tasim"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote",
+        "text": "Pierre Menard, Author of the Quixote"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Circular_Ruins",
+        "text": "The Circular Ruins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Lottery_in_Babylon",
+        "text": "The Lottery in Babylon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/An_Examination_of_the_Work_of_Herbert_Quain",
+        "text": "An Examination of the Work of Herbert Quain"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths",
+        "text": "The Garden of Forking Paths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Funes_the_Memorious",
+        "text": "Funes the Memorious"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Form_of_the_Sword",
+        "text": "The Form of the Sword"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theme_of_the_Traitor_and_the_Hero",
+        "text": "Theme of the Traitor and the Hero"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Death_and_the_Compass",
+        "text": "Death and the Compass"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Secret_Miracle",
+        "text": "The Secret Miracle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Three_Versions_of_Judas",
+        "text": "Three Versions of Judas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_End_(story)",
+        "text": "The End"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Sect_of_the_Phoenix",
+        "text": "The Sect of the Phoenix"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_South_(short_story)",
+        "text": "The South"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Aleph_(short_story_collection)",
+        "text": "The Aleph"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Immortal_(short_story)",
+        "text": "The Immortal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Dead_Man_(short_story)",
+        "text": "The Dead Man"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Theologians",
+        "text": "The Theologians"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Story_of_the_Warrior_and_the_Captive",
+        "text": "Story of the Warrior and the Captive"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Emma_Zunz",
+        "text": "Emma Zunz"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_House_of_Asterion",
+        "text": "The House of Asterion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Deutsches_Requiem_(short_story)",
+        "text": "Deutsches Requiem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Averroes%27s_Search",
+        "text": "Averroes's Search"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Zahir",
+        "text": "The Zahir"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Writing_of_the_God",
+        "text": "The Writing of the God"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Two_Kings_and_the_Two_Labyrinths",
+        "text": "The Two Kings and the Two Labyrinths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Wait_(short_story)",
+        "text": "The Wait"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Man_on_the_Threshold",
+        "text": "The Man on the Threshold"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Aleph_(short_story)",
+        "text": "The Aleph"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins",
+        "text": "The Analytical Language of John Wilkins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dreamtigers",
+        "text": "Dreamtigers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Borges_and_I",
+        "text": "Borges and I"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Encounter_(short_story)",
+        "text": "The Encounter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Gospel_According_to_Mark_(short_story)",
+        "text": "The Gospel According to Mark"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Book_of_Sand_(short_story_collection)",
+        "text": "The Book of Sand"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Other_(short_story)",
+        "text": "The Other"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ulrikke_(short_story)",
+        "text": "Ulrikke"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Congress_(short_story)",
+        "text": "The Congress"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/There_Are_More_Things",
+        "text": "There Are More Things"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Disk",
+        "text": "The Disk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Book_of_Sand",
+        "text": "The Book of Sand"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shakespeare%27s_Memory_(short_story_collection)",
+        "text": "Shakespeare's Memory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Blue_Tigers",
+        "text": "Blue Tigers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shakespeare%27s_Memory",
+        "text": "Shakespeare's Memory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yo,_Jud%C3%ADo",
+        "text": "Yo, Judío"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Historia_de_la_eternidad",
+        "text": "Historia de la eternidad"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A_New_Refutation_of_Time",
+        "text": "A New Refutation of Time"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Borges_on_Mart%C3%ADn_Fierro",
+        "text": "Borges on Martín Fierro"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/El_Golem",
+        "text": "El Golem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Book_of_Imaginary_Beings",
+        "text": "Book of Imaginary Beings"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Labyrinths_(short_story_collection)",
+        "text": "Labyrinths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Adrogue,_con_ilustraciones_de_Norah_Borges",
+        "text": "Adrogue, con ilustraciones de Norah Borges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leonor_Acevedo_Su%C3%A1rez",
+        "text": "Leonor Acevedo Suarez (mother)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Guillermo_Borges_Haslam",
+        "text": "Jorge Guillermo Borges (father)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Norah_Borges",
+        "text": "Norah Borges (sister)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge",
+        "text": "Celestial Emporium of Benevolent Knowledge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/H._Bustos_Domecq",
+        "text": "H. Bustos Domecq"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pedro_Mata_Dom%C3%ADnguez",
+        "text": "Pedro Mata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Uqbar",
+        "text": "Uqbar"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges_and_mathematics",
+        "text": "Borges and mathematics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q473#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/VIAF_(identifier)",
+        "text": "VIAF"
+      },
+      {
+        "href": "https://viaf.org/viaf/215964311",
+        "text": "1"
+      },
+      {
+        "href": "https://www.worldcat.org/identities/containsVIAFID/215964311",
+        "text": "WorldCat (via VIAF)"
+      },
+      {
+        "href": "https://catalogue.bnf.fr/ark:/12148/cb13330513f",
+        "text": "France"
+      },
+      {
+        "href": "https://data.bnf.fr/ark:/12148/cb13330513f",
+        "text": "(data)"
+      },
+      {
+        "href": "https://d-nb.info/gnd/7609879-5",
+        "text": "Germany"
+      },
+      {
+        "href": "http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987010863141105171",
+        "text": "Israel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/SUDOC_(identifier)",
+        "text": "SUDOC (France)"
+      },
+      {
+        "href": "https://www.idref.fr/035701471",
+        "text": "1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:1941_short_stories",
+        "text": "1941 short stories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mathematics_fiction_books",
+        "text": "Mathematics fiction books"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_stories_by_Jorge_Luis_Borges",
+        "text": "Short stories by Jorge Luis Borges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fictional_libraries",
+        "text": "Fictional libraries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fictional_universes",
+        "text": "Fictional universes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Thought_experiments",
+        "text": "Thought experiments"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Works_set_in_libraries",
+        "text": "Works set in libraries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Argentine_speculative_fiction_works",
+        "text": "Argentine speculative fiction works"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+        "text": "Short description is different from Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_Spanish-language_text",
+        "text": "Articles containing Spanish-language text"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_VIAF_identifiers",
+        "text": "Articles with VIAF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_WorldCat-VIAF_identifiers",
+        "text": "Articles with WorldCat-VIAF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_BNF_identifiers",
+        "text": "Articles with BNF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_GND_identifiers",
+        "text": "Articles with GND identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_J9U_identifiers",
+        "text": "Articles with J9U identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_SUDOC_identifiers",
+        "text": "Articles with SUDOC identifiers"
+      }
+    ],
+    "text": "\"The Library of Babel\" (Spanish: La biblioteca de Babel) is a short story by Argentine author and librarianJorge Luis Borges (1899–1986), conceiving of a universe in the form of a vast library containing all possible 410-page books of a certain format and character set.\nThe story was originally published in Spanish in Borges' 1941 collection of stories El jardín de senderos que se bifurcan (The Garden of Forking Paths). That entire book was, in turn, included within his much-reprinted Ficciones (1944). Two English-languagetranslations appeared approximately simultaneously in 1962, one by James E. Irby in a diverse collection of Borges's works titled Labyrinths and the other by Anthony Kerrigan as part of a collaborative translation of the entirety of Ficciones.\nBorges' narrator describes how his universe consists of an enormous expanse of adjacent hexagonal rooms. In each room, there is an entrance on one wall, the bare necessities for human survival on another wall, and four walls of bookshelves. Though the order and content of the books are random and apparently completely meaningless, the inhabitants believe that the books contain every possible ordering of just 25 basic characters (22 letters, the period, the comma, and space). Though the vast majority of the books in this universe are pure gibberish, the library also must contain, somewhere, every coherent book ever written, or that might ever be written, and every possible permutation or slightly erroneous version of every one of those books. The narrator notes that the library must contain all useful information, including predictions of the future, biographies of any person, and translations of every book in all languages. Conversely, for many of the texts, some language could be devised that would make it readable with any of a vast number of different contents.\nDespite—indeed, because of—this glut of information, all books are totally useless to the reader, leaving the librarians in a state of suicidal despair. This leads some librarians to superstitious and cult-like behaviors, such as the \"Purifiers\", who arbitrarily destroy books they deem nonsense as they scour through the library seeking the \"Crimson Hexagon\" and its illustrated, magical books. Others believe that since all books exist in the library, somewhere one of the books must be a perfect index of the library's contents; some even believe that a messianic figure known as the \"Man of the Book\" has read it, and they travel through the library seeking him.\nThe story repeats the theme of Borges' 1939 essay \"The Total Library\" (\"La Biblioteca Total\"), which in turn acknowledges the earlier development of this theme by Kurd Lasswitz in his 1901 story \"The Universal Library\" (\"Die Universalbibliothek\"):\nCertain examples that Aristotle attributes to Democritus and Leucippus clearly prefigure it, but its belated inventor is Gustav Theodor Fechner, and its first exponent, Kurd Lasswitz. [...] In his book The Race with the Tortoise (Berlin, 1919), Dr Theodor Wolff suggests that it is a derivation from, or a parody of, Ramón Llull's thinking machine [...] The elements of his game are the universal orthographic symbols, not the words of a language [...] Lasswitz arrives at twenty-five symbols (twenty-two letters, the space, the period, the comma), whose recombinations and repetitions encompass everything possible to express in all languages. The totality of such variations would form a Total Library of astronomical size. Lasswitz urges mankind to construct that inhuman library, which chance would organize and which would eliminate intelligence. (Wolff's The Race with the Tortoise expounds the execution and the dimensions of that impossible enterprise.)&#91;1&#93;Many of Borges' signature motifs are featured in the story, including infinity, reality, cabalistic reasoning, and labyrinths. The concept of the library is often compared to Borel's dactylographic monkey theorem. There is no reference to monkeys or typewriters in \"The Library of Babel\", although Borges had mentioned that analogy in \"The Total Library\": \"[A] half-dozen monkeys provided with typewriters would, in a few eternities, produce all the books in the British Museum.\" In this story, the closest equivalent is the line, \"A blasphemous sect suggested [...] that all men should juggle letters and symbols until they constructed, by an improbable gift of chance, these canonical books.\" Borges makes an oblique reference to reproducing Shakespeare, as the only decipherable sentence in the library \"O time thy pyramids\" is surely taken from Shakespeare's Sonnet 123 which opens with the lines \"No Time, thou shalt not boast that I do change, Thy pyramids...\".\nBorges would examine a similar idea in his 1976 story, \"The Book of Sand\", in which there is an infinite book (or book with an indefinite number of pages) rather than an infinite library. Moreover, the story's Book of Sand is said to be written in an unknown alphabet and its content is not obviously random. In The Library of Babel, Borges interpolates Italian mathematician Bonaventura Cavalieri's suggestion that any solid body could be conceptualized as the superimposition of an infinite number of planes.\nThe concept of the library is also overtly analogous to the view of the universe as a sphere having its center everywhere and its circumference nowhere. The mathematician and philosopherBlaise Pascal employed this metaphor, and in an earlier essay Borges noted that Pascal's manuscript called the sphere effroyable, or \"frightful\".\nIn any case, a library containing all possible books, arranged at random, might as well be a library containing zero books, as any true information would be buried in, and rendered indistinguishable from, all possible forms of false information; the experience of opening to any page of any of the library's books has been simulated by websites which create screenfuls of random letters.&#91;2&#93;The quote at the beginning of the story, \"By this  you may contemplate the variation of the twenty-four letters,\" is from Robert Burton's 1621 The Anatomy of Melancholy.\nIn mainstream theories of natural language syntax, every syntactically-valid utterance can be extended to produce a new, longer one, because of recursion.&#91;3&#93; However, the books in the Library of Babel are of bounded length (\"each book is of four hundred and ten pages; each page, of forty lines, each line, of some eighty letters\"), so the Library can only contain a finite number of distinct strings. Borges' narrator notes this fact, but believes that the Library is nevertheless infinite; he speculates that it repeats itself periodically, giving an eventual \"order\" to the \"disorder\" of the seemingly random arrangement of books. Mathematics professor William Goldbloom Bloch confirms the narrator's intuition, deducing in his popular mathematics book The Unimaginable Mathematics of Borges' Library of Babel that the library's structure necessarily has at least one room whose shelves are not full (because the number of books per room does not divide the total number of books evenly), and the rooms on each floor of the library must either be connected into a single Hamiltonian cycle, or possibly be disconnected into subsets that cannot reach each other.&#91;4&#93;W.&#160;V.&#160;O. Quine notes that the Library of Babel is finite, and that any text that does not fit in a single book can be reconstructed by finding a second book with the continuation. The size of the alphabet can be reduced by using Morse code even though it makes the books more verbose; the size of the books can also be reduced by splitting each into multiple volumes and discarding the duplicates. Writes Quine, \"The ultimate absurdity is now staring us in the face: a universal library of two volumes, one containing a single dot and the other a dash. Persistent repetition and alternation of the two are sufficient, we well know, for spelling out any and every truth. The miracle of the finite but universal library is a mere inflation of the miracle of binary notation: everything worth saying, and everything else as well, can be said with two characters.\"&#91;5&#93;The full possible set of protein sequences (protein sequence space) has been compared to the Library of Babel.&#91;6&#93;&#91;7&#93; In the Library of Babel, finding any book that made sense was almost impossible due to the sheer number and lack of order. The same would be true of protein sequences if it were not for natural selection, which has picked out only protein sequences that make sense. Additionally, each protein sequence is surrounded by a set of neighbors (point mutants) that are likely to have at least some function. Daniel Dennett's 1995 book Darwin's Dangerous Idea includes an elaboration of the Library of Babel concept to imagine the set of all possible genetic sequences, which he calls the Library of Mendel, in order to illustrate the mathematics of genetic variation. Dennett uses this concept again later in the book to imagine all possible algorithms that can be included in his Toshiba computer, which he calls the Library of Toshiba. He describes the Library of Mendel and the Library of Toshiba as subsets within the Library of Babel.\n",
+    "imageNames": [
+      "220px-The_library_of_babel_-_bookcover.jpg",
+      "220px-Jorge_Luis_Borges.jpg",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}
